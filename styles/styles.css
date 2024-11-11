@@ -22,6 +22,11 @@ h1, #ganador{
   border: 1px solid red;
   border-radius: 3px;
   margin-top: 20px;
+}
 
+#perdedor{
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
 
 }
