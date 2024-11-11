@@ -1,7 +1,7 @@
+
 body{
 
   background-color: antiquewhite;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9,12 +9,15 @@ body{
 
 }
 
+
 h1, #ganador{
+
 
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: seagreen;
   
 }
+
 
 
 .resetGame{
@@ -28,5 +31,13 @@ h1, #ganador{
 
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: red;
+}
 
+.juego{
+
+  border: 1px solid seagreen;
+  border-radius: 5px;
+  width: 450px;
+  padding: 2%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
