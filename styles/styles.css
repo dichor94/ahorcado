@@ -1,0 +1,27 @@
+body{
+
+  background-color: antiquewhite;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+h1, #ganador{
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: seagreen;
+  
+}
+
+
+.resetGame{
+
+  border: 1px solid red;
+  border-radius: 3px;
+  margin-top: 20px;
+
+
+}
